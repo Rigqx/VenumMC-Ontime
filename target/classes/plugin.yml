@@ -1,0 +1,11 @@
+name: Ontime
+version: '1.0-SNAPSHOT'
+main: dk.venummc.ontime.Ontime
+prefix: [ VenumMC ]
+authors: [ Rigqx ]
+description: A ontime plugin for VenumMC
+website: VenumMC.dk
+
+commands:
+  Ontime:
+    description: Ontime command.
